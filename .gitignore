@@ -5,3 +5,4 @@ venv/
 .venv/
 node_modules/
 chat_log.jsonl
+client_secret*.json
