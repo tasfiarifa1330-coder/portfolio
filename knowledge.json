@@ -1,0 +1,187 @@
+{
+  "_about_this_file": "This is the chatbot's knowledge base. Edit the text between the quotes. Only put FACTS here. The chatbot will never go beyond what is written here. Keep it valid JSON (quotes and commas).",
+  "owner": {
+    "name": "Rifa Tasfia",
+    "headline": "AI Engineer and Developer (as shown on her portfolio); creative and digital skills in design, video and chatbot development",
+    "summary": "Rifa is a motivated B.Ed. (Honours) student with creative and technical skills in graphic design, video editing, presentation design and chatbot development. She is trained in digital marketing and is interested in opportunities in graphic design, video editing, IT support and AI/chatbot development.",
+    "location": "Dhaka, Bangladesh",
+    "languages": "English (fluent: speaking, reading and writing). The assistant can also chat in Bengali and Banglish."
+  },
+  "background": [
+    "Education: B.Ed. (Honours), 4th year, 7th semester, Government Teachers' Training College, Dhaka (2021 to present, expected graduation 2027).",
+    "Internship: currently an intern at Ajimpur Government Girls' School and College (ongoing, expected to complete in January 2027).",
+    "Training: completed a Digital Marketing course at Government Teachers' Training College, Dhaka.",
+    "Tools: Canva, Movavi (video editing), Microsoft PowerPoint, Microsoft Word."
+  ],
+  "services": [
+    {
+      "name": "Logo design",
+      "description": "Logo design.",
+      "tools": [
+        "Canva"
+      ],
+      "ask_client": [
+        "brand or business name",
+        "business type",
+        "preferred style, colours or examples they like"
+      ],
+      "starting_price": "",
+      "typical_timeline": ""
+    },
+    {
+      "name": "Poster and banner design",
+      "description": "Poster and banner design. A sample is in the portfolio: the 'AI Website Developer' poster.",
+      "tools": [
+        "Canva"
+      ],
+      "ask_client": [
+        "purpose of the poster or banner",
+        "size or where it will be used",
+        "text and contact details to include",
+        "brand colours or style"
+      ],
+      "starting_price": "",
+      "typical_timeline": ""
+    },
+    {
+      "name": "Presentation design",
+      "description": "Presentation and slide-deck design. A sample is in the portfolio: the 'SmartBiz AI Presentation' deck.",
+      "tools": [
+        "Microsoft PowerPoint",
+        "Canva"
+      ],
+      "ask_client": [
+        "topic and audience",
+        "approximate number of slides",
+        "do they already have content or need help with it",
+        "brand style"
+      ],
+      "starting_price": "",
+      "typical_timeline": ""
+    },
+    {
+      "name": "Video editing",
+      "description": "Video editing. A sample is in the portfolio: the 'SmartBiz AI' video reel.",
+      "tools": [
+        "Movavi"
+      ],
+      "ask_client": [
+        "type of video (reel, promo, social media and so on)",
+        "length of the final video",
+        "do they have the raw footage, music or script",
+        "style they want"
+      ],
+      "starting_price": "",
+      "typical_timeline": ""
+    },
+    {
+      "name": "Chatbot and AI development",
+      "description": "Chatbot development and AI-powered tools. The AI assistant on this portfolio website is an example of her chatbot work.",
+      "tools": [],
+      "ask_client": [
+        "what the chatbot should do",
+        "where it will be used (website, app, social media)",
+        "what information or questions it must handle"
+      ],
+      "starting_price": "",
+      "typical_timeline": ""
+    },
+    {
+      "name": "Digital marketing",
+      "description": "Digital marketing. Rifa has completed a Digital Marketing course.",
+      "tools": [],
+      "ask_client": [
+        "their business and goal",
+        "which platforms they use",
+        "what kind of help they need"
+      ],
+      "starting_price": "",
+      "typical_timeline": ""
+    },
+    {
+      "name": "IT support",
+      "description": "IT support.",
+      "tools": [],
+      "ask_client": [
+        "what problem or help they need",
+        "which device, software or system is involved"
+      ],
+      "starting_price": "",
+      "typical_timeline": ""
+    }
+  ],
+  "portfolio_projects": [
+    {
+      "title": "AI Website Developer poster",
+      "type": "Poster design",
+      "description": "A poster design themed around AI and web development, titled 'AI Website Developer: Turning Ideas into Intelligent Websites'.",
+      "link": ""
+    },
+    {
+      "title": "SmartBiz AI video reel",
+      "type": "Video editing",
+      "description": "A video reel for the SmartBiz AI project.",
+      "link": "https://pilandok-3j22jr.my.canva.site/dahaldxpzhg"
+    },
+    {
+      "title": "SmartBiz AI presentation deck",
+      "type": "Presentation design",
+      "description": "A client presentation and project handover deck about AI-powered business automation (tagline: Automate Business. Understand Data. Grow Smarter).",
+      "link": ""
+    }
+  ],
+  "contact": {
+    "email": "youthbangla.rifatasfia@gmail.com",
+    "whatsapp": "+8801971166473",
+    "linkedin": "https://www.linkedin.com/in/rifa-tasfia-594444347",
+    "preferred_for_new_projects": "Email or WhatsApp"
+  },
+  "availability": {
+    "hours_text": "9:00 AM to 3:00 PM Bangladesh time (BST, UTC+6)",
+    "open_hour": 9,
+    "close_hour": 15,
+    "days": "",
+    "note": "Outside these hours Rifa is offline. She replies personally once she is back."
+  },
+  "pricing": {
+    "_note": "Prices are NOT configured. To let the chatbot quote a price, fill 'starting_price' inside a service above, for example \"From 1,500 BDT\". The chatbot will quote only what is written there.",
+    "general_statement": "Rifa gives a personal quote after she understands the project requirements."
+  },
+  "how_inquiries_work": [
+    "The visitor tells this AI assistant what they need (service, requirements, budget if they want to share it, deadline).",
+    "The assistant passes the details to Rifa by email when the email service is working.",
+    "Rifa reviews the request herself and replies personally with questions, timeline and price.",
+    "The visitor can also contact Rifa directly by email or WhatsApp at any time."
+  ],
+  "not_specified": "Rifa's payment terms, number of revisions, refund policy, delivery times, rates and working days are not specified here. If asked, say that Rifa confirms these personally.",
+  "faq": [
+    {
+      "q": "Who is the assistant?",
+      "a": "It is Rifa's AI assistant. It answers questions and collects project details when Rifa is not available. It is not Rifa herself."
+    },
+    {
+      "q": "How fast will Rifa reply?",
+      "a": "Rifa is usually available 9:00 AM to 3:00 PM Bangladesh time and replies personally. No exact reply time is promised."
+    },
+    {
+      "q": "Can I see Rifa's work?",
+      "a": "Yes. The Work section of this portfolio shows a poster, a video reel and a presentation deck. Visitors can click each one to open it."
+    }
+  ],
+  "booking": {
+    "_note": "Appointment booking settings. days: 0=Monday ... 6=Sunday (the days Rifa takes meetings). Hours come from 'availability' above.",
+    "days": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "slot_step_minutes": 30,
+    "min_notice_minutes": 120,
+    "max_days_ahead": 60,
+    "buffer_minutes": 0
+  }
+}
